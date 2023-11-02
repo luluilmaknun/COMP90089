@@ -19,7 +19,16 @@ The project utilizes the MIMIC-IV (Medical Information Mart for Intensive Care) 
 The project runs on Python `>3.9`. Make sure you have the following Python libraries installed:
 
 ```
+kmodes==0.12.2
+matplotlib==3.8.0
+nbformat==5.9.2
 numpy==1.26.1
+pandas==2.1.1
+plotly-express==0.4.1
+seaborn==0.13.0
+scikit-learn==1.3.1
+yellowbrick==1.5.0
+
 ```
 
 You can install the dependencies using `pip`:
@@ -35,3 +44,8 @@ pip install -r requirements.txt
 * `predictive_analysis/`: Jupyter notebooks for predictive analysis, including feature engineering, modeling, and evaluation.
 * `clustering_analysis/`: Jupyter notebooks for clustering analysis, including feature engineering, modeling, and evaluation.
 * `results/`: Store the trained models, evaluation metrics, and visualizations generated during the analysis.
+
+## Links to Project
+
+* Code repository: (github.com/luluilmaknun/COMP90089)[https://github.com/luluilmaknun/COMP90089]
+* Latex environment: (overleaf.com/project/6528f672c82dabd175be4ab9)[https://www.overleaf.com/project/6528f672c82dabd175be4ab9]
