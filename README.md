@@ -2,7 +2,7 @@
 
 Author: Group 5 of COMP90089
 - Danlan Chen [1288528]
-- Edoardo de Duro [1497010]
+- Edoardo De Duro [1497010]
 - Muhan Guan [1407870]
 - Lulu Qurotaini [1328810]
 
